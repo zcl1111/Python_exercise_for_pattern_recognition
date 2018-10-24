@@ -1,0 +1,1 @@
+# exercise_for_pattern_recognition
